@@ -1,6 +1,10 @@
 ## 10+ Years of Change in Technology Adoption – The Apple iPhone’s Visual Story using Power BI
 
+## The Result
 ![Ms  result](https://github.com/user-attachments/assets/72c0d228-0767-4543-acdc-e3c874ac2574)
+
+## Interact with the report
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGRmYzIwNDYtMjg5Mi00M2MxLTk1MzYtMWYxZWI5Nzc0ZTBiIiwidCI6IjZlMjY5MzE1LWM2NTAtNDM3Zi1iMzE3LTFhODQyOWRlZjM3MyJ9)
 
 ## Purpose:
 To show how the iPhone has grown over time, in sales, features, users, and market share, using data and visual charts.
@@ -35,7 +39,7 @@ Apple still leads in several small but rich regions like Bermuda, Monaco, and Am
 ## Conclusion:
 This report shows how the iPhone changed the smartphone industry with better features, strong user growth, and big profits. It's a powerful example of how technology adoption shapes the market.
 
-## Images
+## Snapshots
 
 *Homepage*
 
